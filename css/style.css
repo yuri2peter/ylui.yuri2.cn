@@ -622,8 +622,8 @@ h6 {
   box-shadow: 0px 2px 10px -1px rgba(0, 0, 0, 0.19);
 }
 .fh5co-pricing .price-box.popular .btn-select-plan {
-  /* background: #ff3b30; */
-  background: gray;
+  background: #ff3b30;
+  /* background: gray; */
 }
 .fh5co-pricing .price-box .btn-select-plan {
   padding: 10px 20px;
